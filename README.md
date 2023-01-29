@@ -138,5 +138,3 @@ ApiCall({ key: secrets.key });
 - [Chrome Extension documentation](https://developer.chrome.com/extensions/getstarted)
 
 ---
-
-Michael Xieyang Liu | [Website](https://lxieyang.github.io)
